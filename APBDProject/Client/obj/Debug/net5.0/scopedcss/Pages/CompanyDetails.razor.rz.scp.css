@@ -1,0 +1,40 @@
+table[b-uty4apodhc]{
+    width: 50%
+}
+td[b-uty4apodhc]{
+    text-align: center;
+    padding: 20px;
+}
+#button-table[b-uty4apodhc]{
+    width: 100%;
+}
+#special[b-uty4apodhc] {
+    background-color: #3a0647;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: deeppink;
+}
+    #special:hover[b-uty4apodhc] {
+        background-color: rgb(5, 39, 103);
+    }
+
+button[b-uty4apodhc] {
+    background-color: rgb(5, 39, 103);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: white;
+}
+
+    button:hover[b-uty4apodhc] {
+        background-color: #3a0647;
+    }

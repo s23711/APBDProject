@@ -1,0 +1,31 @@
+#welcome[b-582nlkx2yw] {
+    text-align: center;
+    font-family: Arial, serif;
+    text-transform: uppercase;
+}
+table[b-582nlkx2yw] {
+    width: 50%
+}
+
+td[b-582nlkx2yw] {
+    text-align: center;
+    padding: 20px;
+}
+#button-table[b-582nlkx2yw] {
+    width: 100%;
+}
+button[b-582nlkx2yw] {
+    background-color: rgb(5, 39, 103);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: white;
+}
+
+    button:hover[b-582nlkx2yw] {
+        background-color: #3a0647;
+    }

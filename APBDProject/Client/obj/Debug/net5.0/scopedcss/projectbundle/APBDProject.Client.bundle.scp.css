@@ -1,0 +1,259 @@
+@import '';
+
+/* /Pages/CompanyDetails.razor.rz.scp.css */
+table[b-uty4apodhc]{
+    width: 50%
+}
+td[b-uty4apodhc]{
+    text-align: center;
+    padding: 20px;
+}
+#button-table[b-uty4apodhc]{
+    width: 100%;
+}
+#special[b-uty4apodhc] {
+    background-color: #3a0647;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: deeppink;
+}
+    #special:hover[b-uty4apodhc] {
+        background-color: rgb(5, 39, 103);
+    }
+
+button[b-uty4apodhc] {
+    background-color: rgb(5, 39, 103);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: white;
+}
+
+    button:hover[b-uty4apodhc] {
+        background-color: #3a0647;
+    }
+/* /Pages/CompanySearch.razor.rz.scp.css */
+#welcome[b-e0r7ce9v4a]{
+    text-align: center;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+input[b-e0r7ce9v4a] {
+    text-align: center;
+    font-family: Arial;
+    text-transform: uppercase;
+    margin: auto;
+    display: block;
+}
+em[b-e0r7ce9v4a]{
+    align-content: center;
+}
+table[b-e0r7ce9v4a] {
+    width: 100%;
+    scroll-padding-top: 20px;
+    margin: 1em;
+}
+
+td[b-e0r7ce9v4a] {
+    border-bottom: 1px solid #ddd;
+}
+
+#data:hover[b-e0r7ce9v4a] {
+     background-image: linear-gradient(to right, rgb(5, 39, 103) 0%, #3a0647 70%);
+     color: white;
+}
+
+thead[b-e0r7ce9v4a] {
+    font-weight: bold;
+}
+
+
+button[b-e0r7ce9v4a] {
+    background-color: rgb(5, 39, 103);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: white;
+}
+    button:hover[b-e0r7ce9v4a] {
+        background-color: #3a0647;
+    }
+/* /Pages/Watchlist.razor.rz.scp.css */
+#welcome[b-582nlkx2yw] {
+    text-align: center;
+    font-family: Arial, serif;
+    text-transform: uppercase;
+}
+table[b-582nlkx2yw] {
+    width: 50%
+}
+
+td[b-582nlkx2yw] {
+    text-align: center;
+    padding: 20px;
+}
+#button-table[b-582nlkx2yw] {
+    width: 100%;
+}
+button[b-582nlkx2yw] {
+    background-color: rgb(5, 39, 103);
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size-adjust: inherit;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    border-color: white;
+}
+
+    button:hover[b-582nlkx2yw] {
+        background-color: #3a0647;
+    }
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-eh7m4a6yme] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.main[b-eh7m4a6yme] {
+    flex: 1;
+}
+
+.sidebar[b-eh7m4a6yme] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-eh7m4a6yme] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-eh7m4a6yme]  a, .top-row .btn-link[b-eh7m4a6yme] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-eh7m4a6yme] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-eh7m4a6yme] {
+        display: none;
+    }
+
+    .top-row.auth[b-eh7m4a6yme] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-eh7m4a6yme], .top-row .btn-link[b-eh7m4a6yme] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-eh7m4a6yme] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-eh7m4a6yme] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-eh7m4a6yme] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .main > div[b-eh7m4a6yme] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-n69hybr5kj] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-n69hybr5kj] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-n69hybr5kj] {
+    font-size: 1.1rem;
+}
+
+.oi[b-n69hybr5kj] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-n69hybr5kj] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-n69hybr5kj] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-n69hybr5kj] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-n69hybr5kj]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-n69hybr5kj]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-n69hybr5kj]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-n69hybr5kj] {
+        display: none;
+    }
+
+    .collapse[b-n69hybr5kj] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

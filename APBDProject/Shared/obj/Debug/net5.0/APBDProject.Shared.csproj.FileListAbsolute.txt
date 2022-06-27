@@ -1,0 +1,48 @@
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.deps.json
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\bin\Debug\net5.0\ref\APBDProject.Shared.dll
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.AssemblyReference.cache
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfoInputs.cache
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfo.cs
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\ref\APBDProject.Shared.dll
+C:\Users\User\APBD\Projekt\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.deps.json
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.AssemblyReference.cache
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfoInputs.cache
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfo.cs
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\refint\APBDProject.Shared.dll
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Downloads\attempt\Projekt-main\APBDProject\APBDProject\Shared\obj\Debug\net5.0\ref\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.deps.json
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfo.cs
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\refint\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Desktop\project backup\APBDProject\APBDProject\Shared\obj\Debug\net5.0\ref\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.deps.json
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\bin\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.AssemblyInfo.cs
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\refint\APBDProject.Shared.dll
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\APBDProject.Shared.pdb
+C:\Users\mateu\Desktop\new approach\APBDProject\APBDProject\Shared\obj\Debug\net5.0\ref\APBDProject.Shared.dll
